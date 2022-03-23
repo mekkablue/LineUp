@@ -14,7 +14,7 @@ This is a plug-in for the [Glyphs font editor](https://glyphsapp.com/). It lines
 ### Usage Instructions
 
 1. Open a glyph in Edit View, and select three or more nodes.
-2. Choose *Filter > Line Up.*
+2. Choose *Filter > Line Up Selection* (de: *Punkte auffädeln,* es: *Formar línea,* pt: *Formar linha,* jp: 直︀線︀化︀, ko: 직선화, zh: 📐选中点直线对齐)
 
 ### Requirements
 

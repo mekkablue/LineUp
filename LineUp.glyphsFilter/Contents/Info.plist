@@ -13,15 +13,15 @@
 	<key>CFBundleName</key>
 	<string>LineUp</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0</string> <!-- 1.0 -->
+	<string>1.0.1</string> <!-- 1.0 -->
 	<key>CFBundleVersion</key>
-	<string>1</string> <!-- 123 -->
+	<string>2</string> <!-- 123 -->
 	<key>UpdateFeedURL</key>
 	<string>https://raw.githubusercontent.com/mekkablue/LineUp/master/LineUp.glyphsFilter/Contents/Info.plist</string>
 	<key>productPageURL</key>
 	<string>https://github.com/mekkablue/LineUp</string>
 	<key>productReleaseNotes</key>
-	<string>Initial Release, thx Paweł</string>
+	<string>Improved Japanese translation, added Korean, thx Kaito</string>
 	<key>NSHumanReadableCopyright</key>
 	<string>Copyright, Rainer Erich Scheichelbauer, 2022</string>
 	<key>NSPrincipalClass</key>

@@ -68,8 +68,8 @@ class LineUp(FilterWithoutDialog):
 			# 'fr': 'Mon filtre',
 			'es': 'Formar línea',
 			'pt': 'Formar linha',
-			'jp': '直線化',
-			# 'ko': '내 필터',
+			'jp': '直︀線︀化︀',
+			'ko': '직선화',
 			'zh': '📐选中点直线对齐',
 			})
 
